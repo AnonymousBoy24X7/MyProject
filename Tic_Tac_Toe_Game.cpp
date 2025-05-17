@@ -128,6 +128,8 @@ int main()
         cin >> choice;
     }
     while(choice == 1);
+    cout<<"\n-------------------------------";
     cout<<"\nGame Ended. Thanks For Playing!";
+    cout<<"\n-------------------------------";
     return 0;
 }
